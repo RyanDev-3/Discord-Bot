@@ -1,0 +1,5 @@
+ID = "753037615468642386"
+
+Invite Link="https://discord.com/api/oauth2/authorize?client_id=753037615468642386&permissions=8&scope=bot"
+
+token="NzUzMDM3NjE1NDY4NjQyMzg2.X1gW7g.e5ZxgCdmgxMXqjRIrW8aJP00cek"
